@@ -35,7 +35,7 @@ const init = () => {
                     break;
                 case "Update an employee role": updateEmployee();
                     break;
-                case "I'm finished":
+                case "Complete!":
                     console.log("Thank you very much!");
                     process.exit();
             }
